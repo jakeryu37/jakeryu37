@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences: [Résumé(Korean)](https://jakeryu37.notion.site/525d2de8e0dc412e94a1695ce1f64b78)
 
-- ⚡ Fun facts: **I love coffee☕️ and music🎵.**
+- ⚡ Fun fact: **I love coffee☕️ and music🎵.**
 
 
 <h3 align="left">Languages and Tools:</h3>
