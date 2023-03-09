@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jake Ryu</h1>
-<h3 align="left">Aspiring to become a data scientist</h3>
+<h1 align="center">Hi 👋, I'm Je uk (Jake) Ryu</h1>
+<h3 align="left">I am an aspiring data scientist from South Korea!</h3>
 
 - 🌱 I’m currently learning: **ML/DL**
 
@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences: [Résumé(Korean)](https://jakeryu37.notion.site/525d2de8e0dc412e94a1695ce1f64b78)
 
-- ⚡ Fun fact: **I've lived in the United States, Czech Republic, India, and am currently living in South Korea.**
+- ⚡ Fun facts: **I love coffee☕️ and music🎵.**
 
 
 <h3 align="left">Languages and Tools:</h3>
