@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Je uk (Jake) Ryu</h1>
-<h3 align="left">I am an aspiring data scientist from South Korea!</h3>
+<h3 align="center">I am an aspiring data scientist from South Korea!</h3>
 
 - 🌱 I’m currently learning: **ML/DL**
 
